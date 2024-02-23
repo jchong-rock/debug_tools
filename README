@@ -1,0 +1,11 @@
+--- JCHONG DEBUG TOOLS ---
+
+Set of macros useful for debugging Objective-C and C++ code.
+Please checkout the appropriate branch for your language:
+
+Objective-C	objc
+C++		cpp
+
+N.B. I am more likely to maintain the objc branch than the cpp branch.
+
+---------------------------
